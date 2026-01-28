@@ -35,30 +35,4 @@ jobs:
       - name: Second_test
         if: "github.event.inputs.deployment_target == 'Second_test'"
         run: pytest tests/test_button.py::test_button_exist_2
-        #asdasd12313фывыфвфыв
-
-        #Hello WORLD
-        #HELLO GENNADY
-
-        #NEW COMMIT
-
-        #asdasdasdsadsadsadasdasdasd
-
-        #NEW FEATURE
-        #NEWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
-        #adadadad!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!git
-
-
-
-        #ЗАЕБАЛ ЭТОТ ГИТ УЖЕ
-        #Да ладно норм
-
-#ДОБАВЛЯЮ ЧУТЬ ДЕРЬМА
-#Чуть еще
-
-#asdasdasdasdasd
-
-#privet
-
-
 
