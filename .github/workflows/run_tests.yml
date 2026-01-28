@@ -35,10 +35,8 @@ jobs:
       - name: Second_test
         if: "github.event.inputs.deployment_target == 'Second_test'"
         run: pytest tests/test_button.py::test_button_exist_2
-        #АЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛОООООООООООООООООООООООООООООО
-
-
-        #куку
+        #asdasd12313фывыфвфыв
+        #Hello WORLD
 
 
 
