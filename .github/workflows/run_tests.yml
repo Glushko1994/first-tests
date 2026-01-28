@@ -36,15 +36,14 @@ jobs:
         if: "github.event.inputs.deployment_target == 'Second_test'"
         run: pytest tests/test_button.py::test_button_exist_2
         #asdasd12313фывыфвфыв
-<<<<<<< HEAD
+
         #Hello WORLD
         #HELLO GENNADY
 
         #NEW COMMIT
 
         #asdasdasdsadsadsadasdasdasd
-=======
->>>>>>> e293695 (Update run_tests.yml)
+
 
 
 
