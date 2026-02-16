@@ -36,9 +36,3 @@ jobs:
         if: "github.event.inputs.deployment_target == 'Second_test'"
         run: pytest tests/test_button.py::test_button_exist_2
 
-#GGGGGGGGGGGGGGGGGGGGGGGGGGG
-#ffffffffffffffffff
-
-#ЗДАПРВА Я ДЯДЯ ВОВА
-#Ну привет
-#НА СЕГОДНЯ ВСЁ!!!!!!!!!!!!
